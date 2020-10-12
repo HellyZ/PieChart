@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PieChart/static/css/main.03ab09ca.chunk.css",
+    "main.js": "/PieChart/static/js/main.af0cdf8f.chunk.js",
+    "main.js.map": "/PieChart/static/js/main.af0cdf8f.chunk.js.map",
+    "runtime-main.js": "/PieChart/static/js/runtime-main.3778d140.js",
+    "runtime-main.js.map": "/PieChart/static/js/runtime-main.3778d140.js.map",
+    "static/js/2.b199cf48.chunk.js": "/PieChart/static/js/2.b199cf48.chunk.js",
+    "static/js/2.b199cf48.chunk.js.map": "/PieChart/static/js/2.b199cf48.chunk.js.map",
+    "index.html": "/PieChart/index.html",
+    "precache-manifest.dde7024dd395e8f701d1db698d17279e.js": "/PieChart/precache-manifest.dde7024dd395e8f701d1db698d17279e.js",
+    "service-worker.js": "/PieChart/service-worker.js",
+    "static/css/main.03ab09ca.chunk.css.map": "/PieChart/static/css/main.03ab09ca.chunk.css.map",
+    "static/js/2.b199cf48.chunk.js.LICENSE.txt": "/PieChart/static/js/2.b199cf48.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3778d140.js",
+    "static/js/2.b199cf48.chunk.js",
+    "static/css/main.03ab09ca.chunk.css",
+    "static/js/main.af0cdf8f.chunk.js"
+  ]
+}
